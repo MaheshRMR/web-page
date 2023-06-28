@@ -53,10 +53,11 @@ function App() {
   return (
     <div className="App">
 
-          Basic APP
+          
           <span className="nav-buttons">
           <span sx={{ mr: 2 , mt:1 , mb:1 , ml:2 }}>
-          <img src=""/>
+          {/* <img src=""/> */}
+          Basic APP
           </span>
           {/* <BootstrapButton 
             sx={{ mr: 2 , mt:1 , mb:1 }}
